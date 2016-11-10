@@ -12,6 +12,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+
+//HEY HOW YO DOIN
 public class LoginActivity extends AppCompatActivity {
 
     Button signIn;
